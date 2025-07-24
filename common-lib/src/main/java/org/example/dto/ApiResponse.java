@@ -1,5 +1,8 @@
 package org.example.dto;
 
+import lombok.Builder;
+
+@Builder
 public class ApiResponse<T> {
     private int code;
     private String message;
