@@ -1,0 +1,2 @@
+mỗi lần sửa phải build lại ./gradlew build  để các service sử dụng dùng phiên bản mới nhất
+./gradlew publishToMavenLocal
